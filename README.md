@@ -51,9 +51,7 @@ Build and Run — enjoy the circuit art magic!
 
 📁 Code Sample
 <details> <summary>Click to view full code</summary>
-cpp
-Copy
-Edit
+
 #include<time.h>
 #include<graphics.h>
 #include<stdio.h>
